@@ -26,7 +26,7 @@ I needed an interface from where I could format my memory to LittleFS, browse, e
 * Folder and file search.
 * Cut, copy and paste folders and files inside LFSE.
 
-## User Guide, Compatibility, Testing, etc.
+## User Guide, Implementation, Compatibility, Testing, etc.
 https://bluscape.blog
 
 ## Revision history

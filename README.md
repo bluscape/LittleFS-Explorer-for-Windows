@@ -28,3 +28,8 @@ I needed an interface from where I could format my memory to LittleFS, browse, e
 
 ## User guide and more
 https://bluscape.blog
+
+## Revision history
+
+### v1.0.0
+* First release of LittleFS Explorer for Windows

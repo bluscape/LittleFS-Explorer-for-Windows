@@ -4,7 +4,7 @@ This is still under construction. Should be finished soon.
 
 LittleFS is a fail-safe file system designed for microcontrollers: https://github.com/ARMmbed/littlefs
 
-The only disadvantage with LittleFS is that one can't edit the file system in Windows. There is a FUSE driver for Linux, but I'm developing under Windows, so I needed an interface from where I could format the SD card to LittleFS, browse, edit, add and remove files. So I decided to write a file explorer for LittleFS in Windows.  
+The only disadvantage with LittleFS is that one can't edit the file system in Windows. There is a FUSE driver for Linux, but I'm developing under Windows, so I needed an interface from where I could format my memory to LittleFS, browse, edit, add and remove files. So I decided to write a file explorer for LittleFS in Windows.  
 
 ![GitHub Logo](/images/ExplorerWAbout.jpg)
 

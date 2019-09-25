@@ -1,4 +1,4 @@
-# LittleFS-Windows-Explorer
+# LittleFS Explorer for Windows
 
 This is still under construction. Should be finished soon.
 

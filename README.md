@@ -1,6 +1,6 @@
 # LittleFS Explorer for Windows
 
-This is still under construction. Should be finished soon.
+# This is still under construction. Should be finished soon.
 
 LittleFS (LFS) is a fail-safe file system designed for microcontrollers: https://github.com/ARMmbed/littlefs
 

@@ -1,7 +1,5 @@
 # LittleFS Explorer for Windows
 
-# This is still under construction. Should be finished soon.
-
 LittleFS (LFS) is a fail-safe file system designed for microcontrollers: https://github.com/ARMmbed/littlefs
 
 LittleFS Explorer (LFSE) is a file explorer for LFS in Windows. 
@@ -27,7 +25,7 @@ LittleFS Explorer (LFSE) is a file explorer for LFS in Windows.
 * Cut, copy and paste folders and files inside LFSE.
 
 ## User Guide, Implementation, Compatibility, Testing, etc.
-https://bluscape.blog
+https://bluscape.blog/2019/10/01/littlefs-explorer-lfse-for-windows/
 
 ## Revision history
 

@@ -44,6 +44,7 @@ vA.B.C where A = Major Version, B = Minor Version and C = Beta Version. If C = Z
 * Added the LFSE DLL version to the about dialog
 * Corrected the file copy dialog when overwriting existing files
 * If the LFS configuration has not been defined for a disk, the LFS configuration dialog will be displayed prior to mounting or formatting a disk
+* Added a LFS configuration option to the disk popup menu
 * Added a volume delete option to the disk popup menu
 
 #### v1.0.0 (Beta)

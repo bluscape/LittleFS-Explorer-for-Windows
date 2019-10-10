@@ -32,7 +32,7 @@ https://bluscape.blog/2019/10/01/littlefs-explorer-lfse-for-windows/
 LFSE has only been tested with an SD card with the following parameters (Block Size = 512, Read Size = 512, Prog Size = 512). Could someone please leave feedback if they test with a device with different parameters.
 
 ## Revision format
-### vA.B.C where A = Major Version, B = Minor Version and C = Beta Version. If C = Zero, it is a stable release.
+#### vA.B.C where A = Major Version, B = Minor Version and C = Beta Version. If C = Zero, it is a stable release.
 
 ## Revision history
 

@@ -52,7 +52,7 @@ LFSE has only been tested with an SD card with the following parameters (Block S
 
 #### v1.0.2 (Beta)
 * Jumped a Beta version since the first release was supposed to be a Beta (v1.0.1)
-* Added the LFSE DLL version
+* Added the DLL version
 * Corrected some issues with the disk access functions
 
 #### v1.0.0 (Beta)

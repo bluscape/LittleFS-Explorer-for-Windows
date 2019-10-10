@@ -44,7 +44,6 @@ LFSE has only been tested with an SD card with the following parameters (Block S
 * Corrected the file copy dialog when overwriting existing files
 * If the LFS configuration has not been defined for a disk, the LFS configuration dialog will be displayed prior to mounting or formatting a disk
 * Added a volume delete option to the disk popup menu
-* LFSE has only been tested with an SD card with the following parameters (Block Size = 512, Read Size = 512, Prog Size = 512). Could someone please leave feedback if they test with a device with different parameters.
 
 #### v1.0.0 (Beta)
 * First release of LittleFS Explorer for Windows

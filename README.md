@@ -9,6 +9,7 @@ LittleFS Explorer (LFSE) is a file explorer for LFS in Windows.
 ## Features
 * Automatically detects, mount and unmount LFS formatted disks.
 * Format any accessible disk to LFS.
+* Delete volume (Deletes the table of contents).
 * Automatically detects the operating system disk and prevents formatting the operating system disk.
 * Define custom LFS configuration parameters when formatting a disk.
 * Browse folders.

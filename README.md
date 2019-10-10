@@ -37,7 +37,7 @@ vA.B.C where A = Major Version, B = Minor Version and C = Beta Version. If C = Z
 
 ## Revision history
 
-### LFSE
+### LFSE (LittleFS.exe)
 
 #### v1.0.2 (Beta)
 * Jumped a Beta version since the first release was supposed to be a Beta (v1.0.1)
@@ -50,7 +50,7 @@ vA.B.C where A = Major Version, B = Minor Version and C = Beta Version. If C = Z
 #### v1.0.0 (Beta)
 * First release of LittleFS Explorer for Windows
 
-### LFSE DLL
+### LFS DLL (lfs.dll)
 
 #### v1.0.2 (Beta)
 * Jumped a Beta version since the first release was supposed to be a Beta (v1.0.1)
